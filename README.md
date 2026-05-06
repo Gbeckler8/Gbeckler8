@@ -6,7 +6,6 @@
 - Passionate about intersections between Computer Science and Music
 
 ## Projects
-### [KineticK9](https://github.com/deveshkumars/kinetick9.git)
-**Hack@URI**\
+### [KineticK9](https://github.com/deveshkumars/kinetick9.git) - **Hack@URI**
 - Winner - Best Use of ElevenLabs API\
 - Finalist - Creative Currents (Creative Interactive Technology)
