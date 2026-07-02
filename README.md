@@ -1,4 +1,4 @@
-# Hi, My Name is Gordon Beckler
+# Hi, My Name is Gordon Beckler! 
 - Rising Junior at Brown University studying Computer Science and Music
 - I'm also a researcher at NYU and a Socially Responsible Computing Undergraduate Teaching Assistant at Brown!
 
